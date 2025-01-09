@@ -3,7 +3,7 @@ Copyright (c) 2023 Invictus Incident Response <br>
 Author [BertJanCyber](https://twitter.com/BertJanCyber)
 
 # Introduction
-This repository provides the information and the queries needed to execute the Sigma rules in AWS Athena. This is done to investigate the first response capabilities that Sigma has. This repository contians a dataset on which all AWS Attack Techniques from the [Stratus Red Team](https://stratus-red-team.cloud/) tool have been simulated. Furthermore, the repository contains all (un)supported Sigma rules for AWS. Lastly all the translated Sigma to AWS Athana queries are shared and can be used to identify malicious activities.
+This repository provides the information and the queries needed to execute the Sigma rules in AWS Athena. This is done to investigate the first response capabilities that Sigma has. This repository contains a dataset on which all AWS Attack Techniques from the [Stratus Red Team](https://stratus-red-team.cloud/) tool have been simulated. Furthermore, the repository contains all (un)supported Sigma rules for AWS. Lastly all the translated Sigma to AWS Athana queries are shared and can be used to identify malicious activities.
 
 The dataset can be used to build new detections or to train personal into identifying malicious activities in your environment.
 
